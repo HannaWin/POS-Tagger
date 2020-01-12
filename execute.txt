@@ -1,0 +1,512 @@
+#!/bin/bash
+
+python3 Hanna-Perceptron.py tr.txt test.txt 1
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 2
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 3
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 4
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 5
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 6
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 7
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 8
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 12
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 13
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 14
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 15
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 16
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 17
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 18
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 23
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 24
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 25
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 26
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 27
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 28
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 34
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 35
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 36
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 37
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 38
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 45
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 46
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 47
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 48
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 56
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 57
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 58
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 67
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 68
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 78
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 123
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 124
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 125
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 126
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 127
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 128
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 134
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 135
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 136
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 137
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 138
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 145
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 146
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 147
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 148
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 156
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 157
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 158
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 167
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 168
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 178
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 234
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 235
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 236
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 237
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 238
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 245
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 246
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 247
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 248
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 256
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 257
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 258
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 267
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 268
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 278
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 345
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 346
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 347
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 348
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 356
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 357
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 358
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 367
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 368
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 378
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 456
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 457
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 458
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 467
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 468
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 478
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 567
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 568
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 578
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 678
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1234
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1235
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1236
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1237
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1238
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1245
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1246
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1247
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1248
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1256
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1257
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1258
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1267
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1268
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1278
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1345
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1346
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1347
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1348
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1356
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1357
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1358
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1367
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1368
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1378
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1456
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1457
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1458
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1467
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1468
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1478
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1567
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1568
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1578
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1678
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 2345
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 2346
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 2347
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 2348
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 2356
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 2357
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 2358
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 2367
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 2368
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 2378
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 2456
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 2457
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 2458
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 2467
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 2468
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 2478
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 2567
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 2568
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 2578
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 2678
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 3456
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 3457
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 3458
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 3467
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 3468
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 3478
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 3567
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 3568
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 3578
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 3678
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 4567
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 4568
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 4578
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 4678
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 5678
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 12345
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 12346
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 12347
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 12348
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 12356
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 12357
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 12358
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 12367
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 12368
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 12378
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 12456
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 12457
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 12458
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 12467
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 12468
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 12478
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 12567
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 12568
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 12578
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 12678
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 13456
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 13457
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 13458
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 13467
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 13468
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 13478
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 13567
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 13568
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 13578
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 13678
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 14567
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 14568
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 14578
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 14678
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 15678
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 23456
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 23457
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 23458
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 23467
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 23468
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 23478
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 23567
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 23568
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 23578
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 23678
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 24567
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 24568
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 24578
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 24678
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 25678
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 34567
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 34568
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 34578
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 34678
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 35678
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 45678
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 123456
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 123457
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 123458
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 123467
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 123468
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 123478
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 123567
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 123568
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 123578
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 123678
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 124567
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 124568
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 124578
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 124678
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 125678
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 134567
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 134568
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 134578
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 134678
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 135678
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 145678
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 234567
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 234568
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 234578
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 234678
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 235678
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 245678
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 345678
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1234567
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1234568
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1234578
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1234678
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1235678
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1245678
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 1345678
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 2345678
+python3 Evaluation.py test.txt prediction.txt >> output.txt
+python3 Hanna-Perceptron.py tr.txt test.txt 12345678
+python3 Evaluation.py test.txt prediction.txt >> output.txt
